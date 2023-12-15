@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyPlants</string>
+    <string name="my_garden">My Garden</string>
+
+    <string name="divisions">Divisions</string>
+    <string name="famlies">Families</string>
+
+    <string name="plants">Community Plants</string>
 </resources>
